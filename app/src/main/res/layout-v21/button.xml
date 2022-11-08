@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/btC"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:background="@color/purple_200"
+        android:backgroundTint="#494949"
+        android:fontFamily="monospace"
+        android:text="C"
+        android:textColor="#5E35B1"
+        android:textSize="30sp"></Button>
+</RelativeLayout>

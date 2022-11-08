@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="c">C</string>
+    <string name="number0">0</string>
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="number4">4</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="number7">7</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="cham">.</string>
+    <string name="bang">=</string>
+    <string name="chia">÷</string>
+    <string name="cong">+</string>
+    <string name="tru">-</string>
+    <string name="nhan">×</string>
+    <string name="phanTram">%</string>
+    <string name="AC">AC</string>
+    <string name="DEL">DEL</string>
+
+
+
+
+</resources>

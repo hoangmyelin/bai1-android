@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/btC"
+        android:layout_width="189dp"
+        android:layout_height="109dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:background="@color/purple_200"
+        android:backgroundTint="#494949"
+        android:fontFamily="monospace"
+        android:text="C"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        tools:ignore="DuplicateClickableBoundsCheck,TextContrastCheck"
+        tools:targetApi="lollipop" />
+
+    <Button
+        android:id="@+id/btCE"
+        android:layout_width="194dp"
+        android:layout_height="168dp"
+        android:layout_row="5"
+        android:layout_column="3"
+        android:layout_columnSpan="1"
+        android:layout_columnWeight="1"
+        android:background="@color/purple_200"
+        android:backgroundTint="#494949"
+        android:fontFamily="monospace"
+        android:text="CE"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        tools:ignore="TextContrastCheck"
+        tools:targetApi="lollipop" />
+
+</RelativeLayout>
